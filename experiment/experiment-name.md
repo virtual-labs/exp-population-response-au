@@ -1,1 +1,1 @@
-### Reconstructing Averaged Population Response
+### Reconstructing Averaged Population Response 
