@@ -15,9 +15,10 @@ Neuronal population activity was described as follows. In a population of NN neu
 &nbsp;
 <center><img src="images/avg1.png" title="" /></center>
 &nbsp;
-where δ\delta denotes the Dirac δ\delta function. The double sum runs over all firing times t(f)jt_{j}^{(f)} of all neurons in the population. The activity AA is defined by a population average. The activity has units of a rate and often called the population rate. The population activity is quite different from the concept of a mean firing rate defined by temporal averaging in a single neuron. The ’neural mass models’, predict the temporal evolution of the population activity A(t)A(t) in large and homogeneous populations of spiking neurons
+where δ\delta denotes the Dirac δ\delta function. The double sum runs over all firing times t(f)jt_{j}^{(f)} of all neurons in the population. The activity AA is defined by a population average. The activity has units of a rate and often called the population rate. The population activity is quite different from the concept of a mean firing rate defined by temporal averaging in a single neuron. The ’neural mass models’, predict the temporal evolution of the population activity A(t)A(t) in large and homogeneous populations of spiking neurons.
 
 &nbsp;
+
 **Homogenous and Heterogenous Neural Networks**
 &nbsp;
 
