@@ -1,24 +1,27 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Biotechnology and Biomedical engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b>  Biosignal Processing and Analysis Lab 
+<b> Experiment|     <b> Modeling synaptic network connectivity
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+Reconstructing Averaged Population Response explores how neural population activity can be decoded by averaging the responses of individual neurons. This experiment demonstrates the principles behind population coding and shows how combining responses from multiple neurons can enhance signal interpretation and reduce noise, providing insights into brain information processing.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+
+<b>Name of Developer | <b> Dr. Shyam Diwakar 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
+<b> Email id|     <b> shyam@amrita.edu 
+<b> Department |  <b> Amrita Mind Brain Center
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Joshy Alphonse | Student | Amrita School of Biotechnology | Amrita Vishwa Vidyapeetham | joshya@am.amrita.edu
+2 | Dr. Asha Vijayan | Faculty | Amrita School of Biotechnology | Amrita Vishwa Vidyapeetham | ashavijayan@am.amrita.edu
+3 | Nijin N | Research Assistant | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | nijinn@am.amrita.edu
+4 | Dhanush Kumar | Research Assistant | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | dhanushkumar@am.amrita.edu
